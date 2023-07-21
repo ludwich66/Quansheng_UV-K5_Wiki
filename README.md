@@ -40,9 +40,13 @@ Only stock firmwares, no mods, no alterations. If you want modified firmware rea
 * [piotr022 - UV_K5_playground - first attempts to prepare build and debug environment](https://github.com/piotr022/UV_K5_playground)
 * [Hackaday article 🛠](https://hackaday.com/2023/06/23/easy-modifications-for-inexpensive-radios/)
 * [Telegram Channel - EN](https://t.me/quansheng_uvk5_en)
-* [Telegram Channel - RU](https://t.me/uv_k5)
+* [Telegram Channel - RU](https://t.me/uv_k5)<br><br>
+  I would like to ask the two Spanish Telegram Channels to merge. <br>
+  It makes little sense to distribute a few OM to two "equal" channels. <br>
+  Just open a third channel and direct all users there ;-)<br>
+  Here is my offer until we find a solution together!<Br>
 * [Telegram Channel - ES *](https://t.me/QuanShengES)
-* [Telegram Channel - ES #](https://t.me/Quansenguvk5)
+* [Telegram Channel - ES #](https://t.me/Quansenguvk5)<br><br>
 * [Telegram Channel - IT](https://t.me/+W31XPFpurWk0NzM0)
 * [Telegram Channel - PL](https://t.me/uvk5_pl)
 * [Telegram Channel - DE](https://t.me/quanshenguv5kde)
