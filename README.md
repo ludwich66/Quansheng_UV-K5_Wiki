@@ -1,38 +1,7 @@
-# TOC
-At the beginning I was planning to put here only official firmwares found somewhere in update files and internet but now, with help from people involved in process of reverse enginnering of uvk5 you can find here some knowledge and findings regarding our very wallet friendly yet so capable radio. Here is table of contents of this repository.
-
-## Build your own firmware - [/uvmod_kitchen](/uvmod_kitchen)
-You can select what you want to include in your modded firmware. If you want unlock all frequencies but also have custom frequency steps? This is section for you. Thanks to this tool you can mix and match different mods to be included in final firmware. All mods are basing on firmware version k5_2.01.26.
-
-## Documents - [/docs](/docs)
-Some (incomplete) documents with info about CPU I/O pins, memory mappings, firmware format etc. 
-
-## Font and graphics - [/font_and_graphics](/font_and_graphics)
-Simple python script which extracts from firmware all bitmaps used in radio's user interface. It works as substitute of documentation.
-
-## Datasheets and drawings - [/hardware](/hardware)
-Here are all the efforts of searching internet for datasheets but also drawings of reverse engineered schematics and high resolution photos of PCB.
-
-## OpenOCD configs - [/openocd](/openocd)
-Tools necessary to unbrick your radio or dump flash memory.
-
-## Utility scripts - [/python-utils](/python-utils)
-Python library and sample scripts which leverage official communication protocol. You can dump EEPROM and reboot your radio or decode firmware. 
-
-## Quansheng UV-K5 Firmware collection - [/firmware](/firmware)
-Only stock firmwares, no mods, no alterations. If you want modified firmware ready to flash please check out [Andrej](https://github.com/Tunas1337/UV-K5-Modded-Firmwares)'s repo
-
-|Date       | Firmware-Updater | Firmware_Version                               | Programming software             |
-|--         | --               | --                                             | --                               |
-|           |                  | [k5_2.01.17](firmware/k5_v2.01.17_publish.bin) |                                  |
-|2023/<05   | 1.1.11           | [k5_2.01.19](firmware/k5_v2.01.19_publish.bin) |                                  |
-|2023/05    | 1.1.11           | [k5_2.01.23](firmware/k5_v2.01.23_publish.bin) | V1.0.38 2023-02-11 07:49:36      |
-|?          | n/a              | [k5_2.01.25](firmware/k5_v2.01.25_publish.bin) | Not released, dumped from device |
-|2023/05/09 | 1.1.12           | [k5_2.01.26](firmware/k5_v2.01.26_publish.bin) | V1.0.38                          |
-|2023/07    | 1.1.12           | [k5_3.00.10](firmware/k5_v3.00.10_flashable.bin) | Not released, dumped from device                          |
-
-
-# Links
+# Basepage of Quansheng_UV-K5_Wiki
+ [ludwich66 - Quansheng UV-K5 Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki
+ 
+## Links
 * [ludwich66 - Quansheng UV-K5 Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
 * [Tunas1337 - UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares)
 * [sq5bpf - uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering)
