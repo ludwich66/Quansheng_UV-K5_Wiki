@@ -14,7 +14,7 @@
 * [agocsdaniel - opensheng](https://github.com/agocsdaniel/opensheng)
 * [Matt's UVMOD Online Tool](https://whosmatt.github.io/uvmod/)
 * [Manujedi - UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools/tree/main/TutOnlineEnv)
-* [DualTachyon - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27](https://github.com/DualTachyon/uv-k5-firmware)
+* [DualTachyon/UserPerson - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27](https://github.com/DualTachyon/uv-k5-firmware)
   <Br><Br>
 * [Telegram Channel - EN](https://t.me/quansheng_uvk5_en)
 * [Telegram Channel - RU](https://t.me/uv_k5)<br><br>
