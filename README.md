@@ -2,7 +2,6 @@
 
 # [<img width="200" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/19823838-7a3f-4ba4-b943-df7f01d16527">](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
 
-
  
 ## Links to many people working on the UV-K5
 * [ludwich66 - Quansheng UV-K5 Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
