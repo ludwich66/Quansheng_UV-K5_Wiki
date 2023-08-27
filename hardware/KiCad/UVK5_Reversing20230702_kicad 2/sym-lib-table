@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UV-K5")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Kicad_UVK5_reversing20230625/UV-K5.kicad_sym")(options "")(descr ""))
+)
