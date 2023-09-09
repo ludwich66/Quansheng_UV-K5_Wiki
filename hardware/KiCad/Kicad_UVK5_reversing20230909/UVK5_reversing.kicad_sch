@@ -1,0 +1,230 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid abeb0e11-6961-4a93-ba06-0741c65258e1)
+
+  (paper "A4")
+
+  (title_block
+    (title "TOC Document Quansheng UV-K5")
+    (date "2023-08-27")
+    (company "Collected on https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Use separate subsheets for separate functional blocks and add them here.\nAnnotate them with unique numbers with the \"100x sheet number\" option.\nRX_path has 200 series.\nTX_chain has 300 series."
+    (at 81.28 186.69 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a5a24ee2-cdd2-4978-bd0e-2e6c51e9089f)
+  )
+
+  (sheet (at 30.48 26.67) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 035d50c6-8580-42bb-bbf4-1189927ac1a1)
+    (property "Sheetname" "RX_path" (at 30.48 25.5346 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RX_path_sch.kicad_sch" (at 30.48 39.1084 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 63.5 93.98) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0caa3f3e-f860-44f5-8cec-4cbd078ba386)
+    (property "Sheetname" "Audio" (at 63.5 92.8446 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "audio.kicad_sch" (at 63.5 106.4184 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "12"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 72.39) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1a1cb9b0-787c-49d9-8f89-bbd5ee2d434a)
+    (property "Sheetname" "MPU" (at 30.48 71.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CPU.kicad_sch" (at 30.48 84.8284 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 118.11) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5a511d47-c886-48a4-9f6d-e26c2c56ff6f)
+    (property "Sheetname" "Keypad" (at 30.48 116.9746 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Keypad.kicad_sch" (at 30.48 130.5484 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 97.79 49.53) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 817ba8b4-3d23-4b1c-8c7b-0c748a3c3e17)
+    (property "Sheetname" "Akku" (at 97.79 48.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Akku.kicad_sch" (at 97.79 61.9684 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 95.25) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9ab48db4-337f-4e11-8816-1536c8ddb5ec)
+    (property "Sheetname" "Logic" (at 30.48 94.1146 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Logic.kicad_sch" (at 30.48 107.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 63.5 26.67) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9f7d2095-7330-4f16-beb2-a69e5c458566)
+    (property "Sheetname" "TX_chain" (at 63.5 25.5346 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TX_chain_sch.kicad_sch" (at 63.5 39.1084 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 99.06 26.67) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c65b244e-80a9-461d-ae4b-9f65e71c92d3)
+    (property "Sheetname" "RX-TX" (at 99.06 25.5346 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Gabiz_ro.kicad_sch" (at 99.06 39.1084 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "13"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 163.83) (size 12.7 10.16) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c80f50ed-0628-400e-a4b5-8e47ad79377f)
+    (property "Sheetname" "USB2SERIAL" (at 30.48 162.6946 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB2SERIAL.kicad_sch" (at 30.48 174.9984 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 63.5 49.53) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cfc0b08f-9b4e-426b-a69e-0d8463e64d15)
+    (property "Sheetname" "UV-K5_Charger" (at 63.5 48.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Charger.kicad_sch" (at 63.5 61.9684 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 49.53) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ee50c20d-fde7-4694-b4a5-e0eee07531ef)
+    (property "Sheetname" "USB-Charge" (at 30.48 48.3946 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB-Charge.kicad_sch" (at 30.48 61.9684 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 140.97) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid fd3c2aea-e199-4343-9b6a-381a963345a1)
+    (property "Sheetname" "BK4819" (at 30.48 139.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 30.48 153.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "10"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
