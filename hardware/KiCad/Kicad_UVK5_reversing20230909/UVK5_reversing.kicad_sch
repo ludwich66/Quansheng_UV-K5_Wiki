@@ -41,7 +41,7 @@
     (stroke (width 1) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 0caa3f3e-f860-44f5-8cec-4cbd078ba386)
-    (property "Sheetname" "Audio" (at 63.5 92.8446 0)
+    (property "Sheetname" "Audio LN4898" (at 63.5 92.8446 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "audio.kicad_sch" (at 63.5 106.4184 0)
@@ -101,6 +101,23 @@
     (instances
       (project "UVK5_reversing"
         (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 63.5 72.39) (size 12.7 11.43) (fields_autoplaced)
+    (stroke (width 1) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8249b2ea-40b3-4476-8cc6-5da6040bf04c)
+    (property "Sheetname" "FM_BK1080" (at 63.5 71.6784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "FM_BK1080.kicad_sch" (at 63.5 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UVK5_reversing"
+        (path "/abeb0e11-6961-4a93-ba06-0741c65258e1" (page "14"))
       )
     )
   )
