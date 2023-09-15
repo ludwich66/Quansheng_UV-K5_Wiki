@@ -831,7 +831,7 @@
   (symbol (lib_id "Device:R") (at 127 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04956e59-1d4d-4363-ac7d-7cd90fed39f0)
-    (property "Reference" "R82" (at 132.08 66.04 90)
+    (property "Reference" "R608" (at 132.08 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "6.8k" (at 127 67.31 90)
@@ -848,7 +848,7 @@
     (instances
       (project "UVK5_reversing"
         (path "/abeb0e11-6961-4a93-ba06-0741c65258e1/8249b2ea-40b3-4476-8cc6-5da6040bf04c"
-          (reference "R82") (unit 1)
+          (reference "R608") (unit 1)
         )
       )
     )
@@ -983,7 +983,7 @@
   (symbol (lib_id "Device:R") (at 127 64.77 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48535f32-b2d9-40f9-b2af-7751b595f71d)
-    (property "Reference" "R81" (at 132.08 63.5 90)
+    (property "Reference" "R607" (at 132.08 63.5 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "6.8k" (at 127 64.77 90)
@@ -1000,7 +1000,7 @@
     (instances
       (project "UVK5_reversing"
         (path "/abeb0e11-6961-4a93-ba06-0741c65258e1/8249b2ea-40b3-4476-8cc6-5da6040bf04c"
-          (reference "R81") (unit 1)
+          (reference "R607") (unit 1)
         )
       )
     )
@@ -1034,7 +1034,7 @@
   (symbol (lib_id "Device:R") (at 163.83 69.85 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49b3da75-c56a-45b6-a9c7-158bcf3e788c)
-    (property "Reference" "R83" (at 163.83 72.39 90)
+    (property "Reference" "R591" (at 163.83 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 163.83 69.85 90)
@@ -1051,7 +1051,7 @@
     (instances
       (project "UVK5_reversing"
         (path "/abeb0e11-6961-4a93-ba06-0741c65258e1/8249b2ea-40b3-4476-8cc6-5da6040bf04c"
-          (reference "R83") (unit 1)
+          (reference "R591") (unit 1)
         )
       )
     )
@@ -1648,7 +1648,7 @@
   (symbol (lib_id "Device:R") (at 163.83 64.77 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fe189442-3889-41b4-9f82-d29a314ab8b3)
-    (property "Reference" "R80" (at 163.83 62.23 90)
+    (property "Reference" "R592" (at 163.83 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 163.83 64.77 90)
@@ -1665,7 +1665,7 @@
     (instances
       (project "UVK5_reversing"
         (path "/abeb0e11-6961-4a93-ba06-0741c65258e1/8249b2ea-40b3-4476-8cc6-5da6040bf04c"
-          (reference "R80") (unit 1)
+          (reference "R592") (unit 1)
         )
       )
     )
