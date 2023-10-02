@@ -6,7 +6,9 @@
 
   (title_block
     (title "UV-K5 FM Radio")
+    (date "2023-09-16")
     (rev "ludwich")
+    (comment 1 "BK1080VB")
   )
 
   (lib_symbols

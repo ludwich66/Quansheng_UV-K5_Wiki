@@ -1,4 +1,4 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
+(kicad_symbol_lib (version 20230914) (generator kicad_symbol_editor)
   (symbol "AN26.0" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "X" (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
