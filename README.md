@@ -15,6 +15,7 @@
 * [Manujedi - UV_K5-Tools](https://github.com/manujedi/UV_K5-Tools/tree/main/TutOnlineEnv)
 * [DualTachyon/UserPerson - Open reimplementation of the Quan Sheng UV K5 firmware v2.1.27](https://github.com/DualTachyon/uv-k5-firmware)
 * [SPM81 - Matoz, Firmwarevariants for K5, K5(8) K6, UV-5R Plus](https://github.com/spm81/Quansheng_UV-K5)
+* [Egzumer - Custom Firmware](https://github.com/egzumer/uv-k5-firmware-custom)
 
 * [OneOfEleven Firmware](https://github.com/OneOfEleven/uv-k5-firmware-custom)
 * [FW for Russian users](https://github.com/rebezhir/openquack)
